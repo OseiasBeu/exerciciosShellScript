@@ -1,4 +1,4 @@
-#!/bin/bash
+#/bin/bash
 echo "=======================| Preparando local |================================"
 echo $0
 echo $1
